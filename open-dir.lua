@@ -6,4 +6,4 @@ function open_dir()
 	os.execute(string.format("explorer %s", current_path))
 end
 
-mp.add_key_binding("ctrl+o", "open_current_dir", open_dir)
+mp.add_key_binding("ctrl+d", "open_current_dir", open_dir)
