@@ -1,3 +1,5 @@
+-- Author: ayghub
+
 local utils = require 'mp.utils'
 
 function open_dir()
